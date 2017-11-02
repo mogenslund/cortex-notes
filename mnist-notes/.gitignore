@@ -1,0 +1,13 @@
+/target
+/classes
+/checkouts
+/mnist
+pom.xml
+pom.xml.asc
+*.jar
+*.nippy
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
